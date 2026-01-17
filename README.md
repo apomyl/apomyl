@@ -1,6 +1,6 @@
 # Hi, I'm Apostolos 🚀
 
-I'm currently a student in my 2nd year of MEng Computer Science at the University of Bristol.
+I'm currently a student in my 2nd year of BSc Computer Science at the University of Bristol.
 
 ### 💻 Tech Stack
 <!-- Languages -->
