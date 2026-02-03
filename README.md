@@ -16,7 +16,7 @@ I'm currently a student in my 2nd year of BSc Computer Science at the University
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### 📈 My Stats
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apomyl&layout=compact&theme=vision-friendly-dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apomyl&show_icons=true&theme=vision-friendly-dark) |
+| ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apomyl&layout=compact&theme=vision-friendly-dark) | ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=apomyl&show_icons=true&theme=vision-friendly-dark) |
 | :--- | :--- |
 
 ### 📫 Connect with me
